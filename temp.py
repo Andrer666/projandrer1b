@@ -9,7 +9,7 @@ P_W= 3
 t_init_s = 0
 t_end_s = 0
 pas_s = 15
-n_i =  10#96
+n_i =  10 # 96
 #-----------------------------#
 
 def calcul_temps_charge_cont(): # calcul le temps nécessaire pour charger la batterie en fonction du taux de charge au début
